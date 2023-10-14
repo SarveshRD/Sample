@@ -8,14 +8,14 @@
           "name": "Potato Chips",
           "icon": "https://cdn-icons-png.flaticon.com/128/2553/2553691.png",
           "price": 40.00,
-	"unit": 1
+	  "unit": "1 Unit"
         },
         {
           "id": 5502,
           "name": "Penne Pasta",
           "icon": "https://cdn-icons-png.flaticon.com/128/2553/2553691.png",
           "price": 110.40,
-	"unit": 2
+	  "unit": "2 Unit"
         }
 ]
 
